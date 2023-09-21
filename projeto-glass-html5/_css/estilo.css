@@ -85,7 +85,7 @@ figure.foto-legenda figcaption{
 
 }
 
-figure.foto-legeda hover figcaption{
+figure.foto-legeda:hover figcaption{
     opacity: 1;
 }
 
@@ -111,7 +111,7 @@ nav#menu li {
     background-color: thistle;
     padding: 10px;
     margin: 2px;
-    transition: back-ground color 1s;
+    transition: color 1s;
 }
 
 nav#menu li:hover{
