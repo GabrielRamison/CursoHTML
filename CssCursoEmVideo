@@ -10,6 +10,8 @@ p{
     text-indent: 50px;
 }
 
+
+
 body {
     background-image: url(fundo.jpg);
     background-color: rgb(249, 249, 249);
@@ -19,6 +21,8 @@ p{
     text-align: justify;
     text-indent: 50px;
 }
+
+
 
 /* Formatação de imagens com legendas*/
 
